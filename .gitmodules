@@ -1,0 +1,15 @@
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "meta-qtbrew"]
+	path = meta-qtbrew
+	url = git@github.com:icariumtech/meta-qtbrew.git 
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://git.yoctoproject.org/git/meta-raspberrypi
+[submodule "poky"]
+	path = poky
+	url = https://git.yoctoproject.org/git/poky
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
